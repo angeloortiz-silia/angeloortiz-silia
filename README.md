@@ -1,57 +1,52 @@
-<img width="1600" alt="Creai Profile Banner" src="https://github.com/user-attachments/assets/485867a2-3164-4e7e-8e6c-d4a901c29c51" />
-
+<img width="2380" height="595" alt="Silia LinkedIn Employee 2 (5)" src="https://github.com/user-attachments/assets/fa173307-31db-409c-ab26-4bd133ad5a5f" />
 <h1 align="center">Angelo Ortiz Vega</h1>
-<h3 align="center">Fullstack AI Engineer</h3>
-
+<h3 align="center">Technical Lead, Implementations · <a href="https://www.silia.com/">Silia</a></h3>
+ 
 <p align="center">
-  Fullstack AI Engineer building production-grade AI products, APIs, and user-facing applications.
+  I own the technical side of getting AI agents from signed deal to stable production —<br/>
+  with client IT teams, implementers, and the platform team on the same page.
 </p>
-
-## What I Deliver
-
-- AI integrations ready for production environments
-- Backend APIs and orchestration for ML-enabled workflows
-- Web interfaces that expose AI capabilities to business teams and end users
-- End-to-end implementation from architecture to deployment
-- Product-oriented thinking to align technical decisions with business outcomes
-- UX-focused implementation to improve usability and user adoption
-- CX-aware delivery to ensure consistent, high-quality customer experiences
-
-## Current Focus
-
-- Designing and shipping reliable AI features with measurable business impact
-- Improving quality, observability, and performance in AI product stacks
-- Time management and delivery planning to keep priorities, scope, and deadlines aligned
-- Technical leadership across discovery, implementation, and cross-functional collaboration
-- Ownership mindset with clear communication, accountability, and continuous improvement
-
-## Location & Timezone
-
-- 🇨🇷 Costa Rica (UTC-6)
-
-## Open to (Internal)
-
-- Cross-team internal initiatives with product and engineering impact
-- AI architecture and technical design for new or evolving internal platforms
-- Mentoring, technical coaching, and enablement for engineering teams
-
-## Tech Stack
-
-- **Languages:** Python, TypeScript, JavaScript, PHP, SQL
-- **Backend & APIs:** Node.js, FastAPI, REST API design, service orchestration
-- **Frontend:** React, Ember.js, component-driven interfaces, UX-focused implementation
-- **Data & AI:** LLM integrations, ML-enabled workflows, prompt and context orchestration
-- **Databases & Infra:** PostgreSQL, Docker, AWS, production deployment and monitoring
-
 <p align="center">
-  <a href="mailto:angeloortiz@creai.mx">
-    <img src="https://img.shields.io/badge/Work-angeloortiz@creai.mx-0A66C2?style=flat-square&logo=microsoftoutlook&logoColor=white" />
+  <a href="mailto:angeloortiz@silia.com">
+    <img src="https://img.shields.io/badge/Work-angeloortiz@silia.com-0A66C2?style=flat-square&logo=microsoftoutlook&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.angelortizv.me/" target="_blank">
     <img src="https://img.shields.io/badge/Website-angelortizv.me-111827?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Remote-Costa_Rica_🇨🇷_UTC--6-374151?style=flat-square" />
 </p>
+
+---
+ 
+## What I Own
+ 
+- **The technical solution for Implementations** — I sign off estimates, decide when an AI agent is ready to go live, and define the hypercare window for each release.
+- **Client IT relationships** — I'm the technical counterpart on integrations, access, infrastructure, and security.
+- **Team flow** — I unblock implementers when they hit a platform limit, distribute technical work across the team, and escalate diagnoses (not symptoms) to the platform team.
+## How I Work
+ 
+- **Feasibility is tested, not debated.** Before answering "can we do this?", I stand up a test agent and verify it end to end.
+- **Every PoC and demo is scoped in writing** — what it shows, what it doesn't, and what is simulated — so it never becomes an unplanned commitment.
+- **Escalations come with evidence.** When something goes to the platform team, it arrives with a reproduction and a likely cause.
+## Reach Out To Me For
+ 
+- Effort estimates and go-live readiness for an implementation
+- Integration, access, infrastructure, or security questions from a client's IT team
+- "Is this possible on the platform?" — I'll come back with a tested answer
+- Scoping a PoC or demo before it's promised to a client
+## Tech Stack
+ 
+| Area | Tools |
+|---|---|
+| **Languages** | Python, TypeScript, JavaScript, PHP, SQL |
+| **Backend & APIs** | Node.js, FastAPI, REST API design, service orchestration |
+| **Frontend** | React, Ember.js, component-driven interfaces |
+| **Data & AI** | LLM agents, ML pipelines, prompt and context orchestration |
+| **Databases & Infra** | PostgreSQL, Docker, AWS, production deployment and monitoring |
+ 
+---
 
 <p align="center">
   <img width="1600" alt="GitHub Contributions 3D" src="./profile-3d-contrib/profile-night-green.svg" />
